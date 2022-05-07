@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+body{
+    font-family: poppins;
+    line-height: 1.4;
+    background-color: #d7d7d7;
+    width: 500px;
+    margin: auto;
+    
+}
+form{
+    background: rgba(147, 5, 5,0.2);
+    padding: 2.5rem 2.5rem;
+    border-radius: 2rem;
+    width: 500px;
+    margin: auto;
+
+    
+}
+.submit-buttom{
+    width: 100%;
+    padding: 1.3rem;
+    background: green;
+    border-radius: 5px;
+    border: none;
+    font-size: 22px;
+    color: white;
+    cursor: pointer;
+}
+.input-headings{
+    margin: auto 1.25rem auto ;
+    padding: 0.25rem;
+
+}
+.form-input{
+    display: block;
+    width: 90%;
+    height: 2rem;
+    padding: 0.25rem 0.75rem;
+    background-color: #fff;
+    border: none;
+    border-radius: 0.5rem;
+    outline: none;
+
+}
+
+
